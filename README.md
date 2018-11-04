@@ -2,11 +2,17 @@
 Weifeng Hu  
 1994/10/04  
 674649741@qq.com  
-**[GitHub](https://github.com/Hu-WF)** 
+**[GitHub](https://github.com/Hu-WF)**  
+
+----
 
 ## Education  
-**FuZhou University** Mechanical engineering and automation _2013/09-2017/07_  
-**Xiamen University** Precision instruments and machinery _2017/09-NOW_  
+**FuZhou University**  
+Mechanical engineering and automation _2013/09-2017/07_  
+**Xiamen University**  
+Precision instruments and machinery _2017/09-NOW_  
+
+----
 
 ## Paper
 * **Hu, W.**, Chen, S., Li, Y., Wang, Q., & Fang, Z. (2018). X-ray absorption spectrum combined with deep neural network for on-line detection of beverage preservatives. [Review of Scientific Instruments](https://aip.scitation.org/doi/10.1063/1.5048281)
