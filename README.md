@@ -14,9 +14,9 @@
 ----
 
 ## SKILL  
-* C/C++,Python,Matlab;  
-* Tensorflow,Scikit-Learn,Keras,Open-CV;  
-* CTR prediction,Zero-shot learning,machine learning;  
+* C/C++, Python, Matlab;  
+* Tensorflow, Scikit-Learn, Keras, Open-CV;  
+* CTR prediction, Zero-shot learning, machine learning;  
 
 ----
 
