@@ -1,14 +1,15 @@
 **Name** Weifeng Hu  
 **Birth** 1994/10/04  
 **E-mail** 674649741@qq.com  
+**[Blog](https://blog.csdn.net/Hu_WF)** 
 **[GitHub](https://github.com/Hu-WF)**  
-
+ 
 ----
 
 ## Education  
-**FuZhou University**　　　　**BA**　　　　　　　　_2013/09-2017/07_  
+**FuZhou University**    Bachelor's degree   _2013/09-2017/07_  
 Mechanical engineering & automation  
-**Xiamen University**       **MA**　　　　　　　　　_2017/09-NOW_  
+**Xiamen University**    Master's degree      _2017/09-NOW_  
 Precision instruments & machinery
 
 ----　
