@@ -1,14 +1,17 @@
-**Name** Weifeng Hu  
+**Name** Weifeng Hu  　　　　！[image](
+        Face-tracking-PTZ-camera-project/face_tracking_PTZcamera_V1.0.0/data/hwf.JPG
+      )
 **Birth** 1994/10/04  
 **E-mail** 674649741@qq.com  
-**[GitHub](https://github.com/Hu-WF)**　　　　**[Blog](https://blog.csdn.net/Hu_WF)**  
+**[Blog](https://blog.csdn.net/Hu_WF)**  
+**[GitHub](https://github.com/Hu-WF)**  
  
 ----
 
 ## EDUCATION  
 **Fuzhou University**　　　　　_BA_　　　　2013/09-2017/07  
 　Mechanical engineering & automation  
-**Xiamen University**　　　　　_MA_　　　　2017/09-NOW  
+**Xiamen University**　　　　　_MA_　　　　2017/09-2020/07  
 　Precision instruments & machinery
 
 ----
