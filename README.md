@@ -1,16 +1,14 @@
-## Information  
-Weifeng Hu  
-1994/10/04  
-674649741@qq.com  
+**Name** Weifeng Hu  
+**Birth** 1994/10/04  
+**E-mail** 674649741@qq.com  
 **[GitHub](https://github.com/Hu-WF)**  
-
 ----
 
 ## Education  
-**FuZhou University**  
-Mechanical engineering and automation _2013/09-2017/07_  
-**Xiamen University**  
-Precision instruments and machinery _2017/09-NOW_  
+**FuZhou University**       **BA**  
+    Mechanical engineering and automation       _2013/09-2017/07_  
+**Xiamen University**       **MA**  
+    Precision instruments and machinery           _2017/09-NOW_  
 
 ----
 
