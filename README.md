@@ -2,13 +2,14 @@
 **Birth** 1994/10/04  
 **E-mail** 674649741@qq.com  
 **[GitHub](https://github.com/Hu-WF)**  
+
 ----
 
 ## Education  
 **FuZhou University**　　　　**BA**　　　　　　　　_2013/09-2017/07_  
-　　　　Mechanical engineering & automation  
+Mechanical engineering & automation  
 **Xiamen University**       **MA**　　　　　　　　　_2017/09-NOW_  
-　　　　Precision instruments & machinery  　　  
+Precision instruments & machinery
 
 ----　
 
