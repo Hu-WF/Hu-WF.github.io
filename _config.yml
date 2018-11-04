@@ -1,5 +1,7 @@
 title: HuWF's personal homepage
+logo: /assets/img/header.png
 description: Pyhton/Machine-learning/Deep-learning.
 #email:674649741@qq.com
 #github:HuWF
+show_downloads: true
 theme: jekyll-theme-minimal
