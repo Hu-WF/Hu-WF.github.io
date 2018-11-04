@@ -1,6 +1,4 @@
-**Name** Weifeng Hu  　　　　！[image](
-        Face-tracking-PTZ-camera-project/face_tracking_PTZcamera_V1.0.0/data/hwf.JPG
-      )
+**Name** Weifeng Hu  　　　　！[image](https://github.com/Hu-WF/Face-tracking-PTZ-camera-project/blob/master/face_tracking_PTZcamera_V1.0.0/data/hwf.JPG)
 **Birth** 1994/10/04  
 **E-mail** 674649741@qq.com  
 **[Blog](https://blog.csdn.net/Hu_WF)**  
