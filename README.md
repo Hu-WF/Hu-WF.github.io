@@ -11,8 +11,8 @@ Mechanical engineering and automation   2013/09-2017/07
 Precision instruments and machinery    2017/09-  NOW  
 
 ## Paper
-Hu, W., Chen, S., Li, Y., Wang, Q., & Fang, Z. (2018). X-ray absorption spectrum combined with deep neural network for on-line detection of beverage preservatives. [Review of Scientific Instruments], 89(10), 103108.](https://aip.scitation.org/doi/10.1063/1.5048281)
-
+Hu, W., Chen, S., Li, Y., Wang, Q., & Fang, Z. (2018). X-ray absorption spectrum combined with deep neural network for on-line detection of beverage preservatives. [Review of Scientific Instruments](https://aip.scitation.org/doi/10.1063/1.5048281)
+, 89(10), 103108.]
 
 #You can use the [editor on GitHub](https://github.com/Hu-WF/Hu-WF.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
