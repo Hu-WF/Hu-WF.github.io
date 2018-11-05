@@ -20,6 +20,13 @@
 
 ----
 
+## Program  
+_2018/08-2018/11_　TIANCHI/ZhijiangLab-Cup Global AI competition: Zero-shot Learning. [code](https://github.com/Hu-WF/2018ZJL-Zero-Shot-Learning-ZSL)  
+_2018/06-2018/07_　Face-tracking PTZ camera based on face_recognition and dlib. [code](https://github.com/Hu-WF/Face-tracking-PTZ-camera-project)  
+_2018/04-2018/07_　Machine learning algorithm software for data analysis of X-ray absorption spectroscopy.[code](https://github.com/Hu-WF/XASDataProcessingProject)  
+
+----
+
 ## PAPER  
 　**Hu, W.**, Chen, S., Li, Y., Wang, Q., & Fang, Z. (2018). X-ray absorption spectrum combined with deep neural network for on-line detection of beverage preservatives. [Review of Scientific Instruments](https://aip.scitation.org/doi/10.1063/1.5048281)
 , 89(10), 103108.  
