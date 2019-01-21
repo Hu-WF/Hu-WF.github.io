@@ -32,6 +32,8 @@ _2018/04-2018/07_　　Machine learning algorithm software for data analysis of 
 , 89(10), 103108.  
 
 　CHEN Siyuan, FANG Zheng, **HU Weifeng**, YU Jie, WANG Qian, WANG Hanbo, WANG Yuxin.（2018）. Method of predicting residual power of rechargeable lithium batteries.[Journal of Central South University](http://www.zndxzk.com.cn/paper/paperView.aspx?id=paper_318535), 49(9).  
+ 
+　Fang, Z., **Hu, W.**, Wang, R., & Chen, S. (2019). Application of hyperspectral CT technology combined with machine learning in recognition of plastic components.[NDT & E International](https://www.sciencedirect.com/science/article/pii/S0963869518305619?via%3Dihub).
 
 ----
 
