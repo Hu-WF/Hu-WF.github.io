@@ -22,7 +22,7 @@
 
 ## PROGRAM  
 _[1] 2018/08-2018/11_　　TIANCHI/ZhijiangLab-Cup Global AI competition: Zero-shot Learning. [code](https://github.com/Hu-WF/2018ZJL-Zero-Shot-Learning-ZSL)  
-_[2] 2018/12-2019/03_　　TIANCHI/JinNan digital manufacturing algorithm competition. [code](https://github.com/Hu-WF/Face-tracking-PTZ-camera-project)  
+_[2] 2018/12-2019/03_　　TIANCHI/JinNan digital manufacturing algorithm competition. [code](https://github.com/Hu-WF/2019Jinnan-Digital-Manufacturing-DMAC)  
 _[3] 2018/06-2018/07_　　Face-tracking PTZ camera based on face_recognition and dlib. [code](https://github.com/Hu-WF/Face-tracking-PTZ-camera-project)  
 _[4] 2018/04-2018/07_　　Machine learning algorithm software for data analysis of X-ray absorption spectroscopy.[code](https://github.com/Hu-WF/XASDataProcessingProject)  
 
