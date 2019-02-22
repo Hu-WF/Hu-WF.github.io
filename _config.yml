@@ -4,5 +4,5 @@ logo: /assets/img/header.png
 description: Pyhton/Machine-learning/Deep-learning.
 email: 674649741@qq.com
 github: HuWF
-show_downloads: true
+show_downloads: False
 theme: jekyll-theme-minimal
