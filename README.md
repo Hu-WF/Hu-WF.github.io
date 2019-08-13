@@ -1,7 +1,7 @@
 **Name** Weifeng Hu   
 **Birth** 1994/10/04  
 **E-mail** 674649741@qq.com  
-**Links**:　**[GitHub](https://github.com/Hu-WF)**  **[CSDN blog](https://blog.csdn.net/Hu_WF)**  
+**Links**:　**[GitHub](https://github.com/Hu-WF)**    **[CSDN blog](https://blog.csdn.net/Hu_WF)**  
  
 ----
 
