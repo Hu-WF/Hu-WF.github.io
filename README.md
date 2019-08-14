@@ -1,6 +1,6 @@
 **E-mail** 674649741@qq.com  
 **Links**:　**[GitHub](https://github.com/Hu-WF)**　　　　**[CSDN-blog](https://blog.csdn.net/Hu_WF)**  
-**[Chinese](README-ch.md)**  
+**[Chinese](README-ch.tex)**  
 
 ----
 
