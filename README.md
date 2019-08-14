@@ -1,13 +1,15 @@
-**Name** Weifeng Hu   
+            **Name** Weifeng Hu   
 **E-mail** 674649741@qq.com  
 **Links**:　**[GitHub](https://github.com/Hu-WF)**　　　　**[CSDN-blog](https://blog.csdn.net/Hu_WF)**  
  
 ----
 
+___
+
 ## EDUCATION  
-**Xiamen University**　　_MA_　　Precision instruments & machinery　　2017/09-2020/07  
+**Xiamen University**　　　　　_MA_　　　　　2017/09-2020/07  
 　Precision instruments & machinery  
-**Fuzhou University**　　_BA_　　Mechanical engineering & automation　　2013/09-2017/07  
+**Fuzhou University**　　　　　_BA_　　　　　2013/09-2017/07  
 　Mechanical engineering & automation  
  
 ----
