@@ -5,28 +5,28 @@
  - **[CSDN](https://blog.csdn.net/Hu_WF)**：https://blog.csdn.net/Hu_WF 
  - **[GitHub](https://github.com/Hu-WF)**：https://github.com/Hu-WF 
  - 求职意向：算法工程师，大数据开发工程师
-  ---
-  
- ## 教育背景
+ 
+ ---
+## 教育背景
 - 2019.09-2020.06　　硕士　　**厦门大学**　　精密仪器及机械（推免）　　
-- 2013.09-2017.06　　本科　　**福州大学**　　机械设计制造及其自动化　　
----
+- 2013.09-2017.06　　本科　　**福州大学**　　机械设计制造及其自动化　
 
+---
 ## 实习经历
 - **网宿科技股份有限公司**　算法实习生　[代码](https://github.com/Hu-WF/WS_InternshipProject)　　2019.06-2019.09
----
 
+---
 ## 竞赛经历
 - **2018之江杯全球人工智能大赛：零样本目标识别**　[代码](https://github.com/Hu-WF/WS_InternshipProject)　　2018.08-2018.11
 - **天池-津南数字制造算法挑战赛：原料企业工艺优化**　[代码](https://github.com/Hu-WF/2019Jinnan-Digital-Manufacturing-DMAC)　　2018.11-2019.04
----
 
+---
 ## 项目经历
 - **基于深度学习的X射线光谱数据自动分析软件开发**　[代码](https://github.com/Hu-WF/XASDataProcessingProject)　2018.06-2019.04
 - **锂电池组二维温度场稀疏重建算法研究**　[代码](https://github.com/Hu-WF/TemperatureField-Reconstruction)　2019.02-2019.07
 - **基于SSD和PTZ相机的行人检测跟踪平台设计**　[代码](https://github.com/Hu-WF/Face-tracking-PTZ-camera-project)　2018.07-2019.06
----
 
+---
 ## 学术论文
 　**[1]** Fang, Z., **Hu, W.**, Wang, R., & Chen, S. (2019). Application of hyperspectral CT technology combined with machine learning in recognition of plastic components.[NDT & E International](https://www.sciencedirect.com/science/article/pii/S0963869518305619?via%3Dihub).  
 
