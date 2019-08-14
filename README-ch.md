@@ -28,6 +28,7 @@
 , 89(10), 103108.  
 
 　[3] CHEN Siyuan, FANG Zheng, **HU Weifeng**, YU Jie, WANG Qian, WANG Hanbo, WANG Yuxin.（2018）. Method of predicting residual power of rechargeable lithium batteries.[Journal of Central South University](http://www.zndxzk.com.cn/paper/paperView.aspx?id=paper_318535), 49(9).  
+
 ---
 ## 专业技能
 - 语言算法：熟悉Python，C/C++；熟悉机器学习、深度学习和图像处理算法；熟悉常用数据结构算法 
