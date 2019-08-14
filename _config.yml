@@ -1,8 +1,10 @@
 title: HuWeifeng
 subtitle: HuWF's personal homepage
 logo: /assets/img/header.png
-description: Machine learning，Deep learning，Data analysis   
+description: resume   
 email: 674649741@qq.com
 github: HuWF
-show_downloads: False
+keywords: resume
+show_downloads: True
+author: HuWF
 #theme: jekyll-theme-minimal
