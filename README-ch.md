@@ -18,7 +18,7 @@
 
 ## 竞赛经历
 - **2018之江杯全球人工智能大赛：零样本目标识别**　[代码](https://github.com/Hu-WF/WS_InternshipProject)　　2018.08-2018.11
-- **阿里云天池-津南数字制造算法挑战赛：原料企业工艺优化**　[代码](https://github.com/Hu-WF/2019Jinnan-Digital-Manufacturing-DMAC)　　2018.11-2019.04
+- **天池-津南数字制造算法挑战赛：原料企业工艺优化**　[代码](https://github.com/Hu-WF/2019Jinnan-Digital-Manufacturing-DMAC)　　2018.11-2019.04
 ---
 
 ## 项目经历
