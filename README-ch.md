@@ -5,7 +5,7 @@
 ---
 
  - 邮箱：674649741@qq.com 
- - CSDN：https://blog.csdn.net/Hu_WF ( 使用GitHub Host的Big较高  )
+ - CSDN：https://blog.csdn.net/Hu_WF 
  - Github：https://github.com/Hu-WF 
  - 求职意向：算法工程师，大数据开发工程师
  
