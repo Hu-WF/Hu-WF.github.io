@@ -28,12 +28,12 @@
 ---
 
 ## 学术论文
-　[1] Fang, Z., **Hu, W.**, Wang, R., & Chen, S. (2019). Application of hyperspectral CT technology combined with machine learning in recognition of plastic components.[NDT & E International](https://www.sciencedirect.com/science/article/pii/S0963869518305619?via%3Dihub).  
+　**[1]** Fang, Z., **Hu, W.**, Wang, R., & Chen, S. (2019). Application of hyperspectral CT technology combined with machine learning in recognition of plastic components.[NDT & E International](https://www.sciencedirect.com/science/article/pii/S0963869518305619?via%3Dihub).  
 
-　[2] **Hu, W.**, Chen, S., Li, Y., Wang, Q., & Fang, Z. (2018). X-ray absorption spectrum combined with deep neural network for on-line detection of beverage preservatives. [Review of Scientific Instruments](https://aip.scitation.org/doi/10.1063/1.5048281)
+　**[2]** **Hu, W.**, Chen, S., Li, Y., Wang, Q., & Fang, Z. (2018). X-ray absorption spectrum combined with deep neural network for on-line detection of beverage preservatives. [Review of Scientific Instruments](https://aip.scitation.org/doi/10.1063/1.5048281)
 , 89(10), 103108.  
 
-　[3] CHEN Siyuan, FANG Zheng, **HU Weifeng**, YU Jie, WANG Qian, WANG Hanbo, WANG Yuxin.（2018）. Method of predicting residual power of rechargeable lithium batteries.[Journal of Central South University](http://www.zndxzk.com.cn/paper/paperView.aspx?id=paper_318535), 49(9).  
+　**[3]** CHEN Siyuan, FANG Zheng, **HU Weifeng**, YU Jie, WANG Qian, WANG Hanbo, WANG Yuxin.（2018）. Method of predicting residual power of rechargeable lithium batteries.[Journal of Central South University](http://www.zndxzk.com.cn/paper/paperView.aspx?id=paper_318535), 49(9).  
 
 ---
 ## 专业技能
