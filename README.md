@@ -13,7 +13,7 @@
 
 ---
 ## 实习经历
-- **网宿科技股份有限公司**　算法实习生　[代码](https://github.com/Hu-WF/WS_InternshipProject)　　2019.06-2019.09
+- **网宿科技股份有限公司**　*算法实习生*　[代码](https://github.com/Hu-WF/WS_InternshipProject)　　2019.06-2019.09
 
 ---
 ## 竞赛经历
@@ -37,6 +37,7 @@
 
 ---
 ## 专业技能
+- 英文水平：CET-6
 - 语言算法：熟悉Python，C/C++；熟悉机器学习、深度学习和图像处理算法；熟悉常用数据结构算法 
 - 框架环境：熟悉Keras，TensorFlow，OpenCV，Sklearn等框架；熟悉Linux开发环境 
 
