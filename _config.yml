@@ -5,6 +5,6 @@ description: resume
 email: 674649741@qq.com
 github: HuWF
 keywords: resume
-show_downloads: True
+#show_downloads: True
 author: HuWF
 #theme: jekyll-theme-minimal
