@@ -26,9 +26,9 @@ _[2] 2018/12-2019/03_　　TIANCHI/JinNan digital manufacturing algorithm compet
 [code](https://github.com/Hu-WF/2019Jinnan-Digital-Manufacturing-DMAC)  
 _[3] 2018/06-2018/07_　　Face-tracking PTZ camera based on face_recognition and dlib.  
 [code](https://github.com/Hu-WF/Face-tracking-PTZ-camera-project)  
-_[4] 2018/04-2018/07_　　Machine learning algorithm software for data analysis of X-ray absorption spectroscopy.
+_[4] 2018/04-2018/07_　　Machine learning algorithm software for data analysis of X-ray absorption spectroscopy.  
 [code](https://github.com/Hu-WF/XASDataProcessingProject)  
-_[5] 2019/01-2019/06_　　Sparse reconstruction of temperature field in lithium battery pack.
+_[5] 2019/01-2019/06_　　Sparse reconstruction of temperature field in lithium battery pack.  
 [code](https://github.com/Hu-WF/TemperatureField-Reconstruction)  
 
 ----
