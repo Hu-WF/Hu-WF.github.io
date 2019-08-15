@@ -4,7 +4,7 @@
  - **E-mail**：674649741@qq.com 
  - **CSDN**：[https://blog.csdn.net/Hu_WF](https://blog.csdn.net/Hu_WF) 
  - **Github**：[https://github.com/Hu-WF](https://github.com/Hu-WF) 
- - **Intention**：Algorithmic Engineer，Big Data Development Engineer
+ - **Job-Intention**：Algorithmic Engineer，Big Data Development Engineer
  
 --- 
 ## Education
@@ -13,7 +13,7 @@
 
 ---
 ## Internship
-- **[Wangsu](https://www.wangsu.com/) Technology Co., Ltd.**　*Algorithmic Intern*　[code](https://github.com/Hu-WF/WS_InternshipProject)　　2019.06-2019.09
+- **[Wangsu Technology Co., Ltd.](https://www.wangsu.com/)**　*Algorithmic Intern*　[code](https://github.com/Hu-WF/WS_InternshipProject)　　2019.06-2019.09
 
 ---
 ## Competition
