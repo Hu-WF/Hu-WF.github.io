@@ -2,8 +2,8 @@
 
 ---
  - 邮箱：674649741@qq.com 
- - **[CSDN](https://blog.csdn.net/Hu_WF)**：https://blog.csdn.net/Hu_WF 
- - **[GitHub](https://github.com/Hu-WF)**：https://github.com/Hu-WF 
+ - CSDN：[https://blog.csdn.net/Hu_WF](https://blog.csdn.net/Hu_WF)
+ - Github：[https://github.com/Hu-WF](https://github.com/Hu-WF) 
  - 求职意向：算法工程师，大数据开发工程师
  
  ---
@@ -13,7 +13,7 @@
 
 ---
 ## 实习经历
-- **网宿科技股份有限公司**　*算法实习生*　[代码](https://github.com/Hu-WF/WS_InternshipProject)　　2019.06-2019.09
+- **[网宿科技股份有限公司](https://www.wangsu.com/)**　*算法实习生*　[代码](https://github.com/Hu-WF/WS_InternshipProject)　　2019.06-2019.09
 
 ---
 ## 竞赛经历
