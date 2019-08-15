@@ -2,8 +2,8 @@
 
 ---
  - **E-mail**：674649741@qq.com 
- - **[CSDN](https://blog.csdn.net/Hu_WF)**：https://blog.csdn.net/Hu_WF 
- - **[GitHub](https://github.com/Hu-WF)**：https://github.com/Hu-WF 
+ - **CSDN**：[https://blog.csdn.net/Hu_WF](https://blog.csdn.net/Hu_WF) 
+ - **Github**：[https://github.com/Hu-WF](https://github.com/Hu-WF) 
  - **Intention**：Algorithmic Engineer，Big Data Development Engineer
  
 --- 
@@ -13,11 +13,11 @@
 
 ---
 ## Internship
-- **Wangsu Technology Co., Ltd.**　*Algorithmic Intern*　[code](https://github.com/Hu-WF/WS_InternshipProject)　　2019.06-2019.09
+- **[Wangsu](https://www.wangsu.com/) Technology Co., Ltd.**　*Algorithmic Intern*　[code](https://github.com/Hu-WF/WS_InternshipProject)　　2019.06-2019.09
 
 ---
 ## Competition
-- **2018-TIANCHI/ZhijiangLab-Cup Global AI competition: Zero-shot Learning.**　[code](https://github.com/Hu-WF/WS_InternshipProject)　　2018.08-2018.11
+- **2018-ZhijiangLab-Cup Global AI competition: Zero-shot Learning.**　[code](https://github.com/Hu-WF/WS_InternshipProject)　　2018.08-2018.11
 - **TIANCHI/JinNan digital manufacturing algorithm competition.**　[code](https://github.com/Hu-WF/2019Jinnan-Digital-Manufacturing-DMAC)　　2018.11-2019.04
 
 ---
