@@ -1,4 +1,4 @@
-**[English](README-en.md)**|**[Chinese](README.md)**  
+**[English](README.md)**|**[简体中文](README-ch.md)**  
 
 ---
  - **E-mail**：674649741@qq.com 
@@ -8,8 +8,8 @@
  
 --- 
 ## Education
-- 2019.09-2020.06　　Master　　**Xiamen University**　　Precision instruments & machinery　　
-- 2013.09-2017.06　　Bachelor　　**Fuzhou University**　　Mechanical engineering & automation　
+- 2019.09-2020.06　　Master　　**Xiamen University**　　*School of Aerospace Engineering*　　
+- 2013.09-2017.06　　Bachelor　　**Fuzhou University**　　*Mechanical Engineering & Automation*　
 
 ---
 ## Internship
