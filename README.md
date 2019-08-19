@@ -17,7 +17,7 @@
 
 ---
 ## Competition
-- **2018-ZhijiangLab-Cup Global AI competition: Zero-shot Learning.**　[code](https://github.com/Hu-WF/WS_InternshipProject)　　2018.08-2018.11
+- **2018-ZhijiangLab-Cup Global AI competition: Zero-shot Learning.**　[code](https://github.com/Hu-WF/2018ZJL-Zero-Shot-Learning-ZSL)　　2018.08-2018.11
 - **TIANCHI/JinNan digital manufacturing algorithm competition.**　[code](https://github.com/Hu-WF/2019Jinnan-Digital-Manufacturing-DMAC)　　2018.11-2019.04
 
 ---
