@@ -1,5 +1,4 @@
 **[English](README.md)**|**[简体中文](README-ch.md)**  
-**[Resume ](resume.html)**  
 
 ---
  - **E-mail**：674649741@qq.com 
