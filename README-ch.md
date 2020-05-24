@@ -31,4 +31,5 @@
 , 60, 101944.  
 
 　**[4]** CHEN Siyuan, FANG Zheng, **HU Weifeng**, YU Jie, WANG Qian, WANG Hanbo, WANG Yuxin.（2018）. Method of predicting residual power of rechargeable lithium batteries.[Journal of Central South University](http://www.zndxzk.com.cn/paper/paperView.aspx?id=paper_318535), 49(9).  
+
 ---
