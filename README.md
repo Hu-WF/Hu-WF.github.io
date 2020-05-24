@@ -4,12 +4,12 @@
  - **E-mail**：674649741@qq.com 
  - **CSDN**：[https://blog.csdn.net/Hu_WF](https://blog.csdn.net/Hu_WF) 
  - **Github**：[https://github.com/Hu-WF](https://github.com/Hu-WF) 
- - **Job-Intention**：Algorithmic Engineer，Big Data Development Engineer
+[]: - **Job-Intention**：Algorithmic Engineer，Big Data Development Engineer
  
---- 
-## Education
-- 2019.09-2020.06　　Master　　**Xiamen University**　　*School of Aerospace Engineering*　　
-- 2013.09-2017.06　　Bachelor　　**Fuzhou University**　　*Mechanical Engineering & Automation*　
+[]:--- 
+[]:## Education
+[]:- 2019.09-2020.06　　Master　　**Xiamen University**　　*School of Aerospace Engineering*　　
+[]:- 2013.09-2017.06　　Bachelor　　**Fuzhou University**　　*Mechanical Engineering & Automation*　
 
 ---
 ## Internship
@@ -39,10 +39,10 @@
 　**[4]** CHEN Siyuan, FANG Zheng, **HU Weifeng**, YU Jie, WANG Qian, WANG Hanbo, WANG Yuxin.（2018）. Method of predicting residual power of rechargeable lithium batteries.[Journal of Central South University](http://www.zndxzk.com.cn/paper/paperView.aspx?id=paper_318535), 49(9).  
 
 ---
-## Skill
-- English level：CET-6
-- Languages&Algorithms：Python，C/C++；Machine Learning，Deep Learning，Image Processing Algorithm；Data Structure Algorithms 
-- Frameworks&Environments：Keras，TensorFlow，OpenCV，Sklearn；Linux development environment 
+[]:## Skill
+[]:- English level：CET-6
+[]:- Languages&Algorithms：Python，C/C++；Machine Learning，Deep Learning，Image Processing Algorithm；Data Structure Algorithms 
+[]:- Frameworks&Environments：Keras，TensorFlow，OpenCV，Sklearn；Linux development environment 
 
 ---
 
